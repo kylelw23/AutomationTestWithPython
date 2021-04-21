@@ -119,10 +119,12 @@ def start_test():
         jucef = app[u'R\xd8DE Connect']
         jucef.wait('ready')
         automation_test()
+        app.kill()
     except:
         print("Oops!", sys.exc_info()[0], "occurred.")
         print("Next entry.")
         print()
+
 
 start_test()
 

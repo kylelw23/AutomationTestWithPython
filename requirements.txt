@@ -1,16 +1,2 @@
-comtypes==1.1.9
-legacycontour==0+untagged.2.g0aa2b43
-mouse==0.7.1
-MouseInfo==0.1.3
-numpy==1.19.0
-Pillow==8.2.0
 PyAutoGUI==0.9.52
-PyGetWindow==0.0.9
-PyMsgBox==1.0.9
-pyperclip==1.8.2
-PyRect==0.1.4
-PyScreeze==0.1.27
-PyTweening==1.0.3
-pywin32==300
 pywinauto==0.6.8
-six==1.15.0
