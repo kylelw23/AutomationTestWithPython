@@ -7,4 +7,4 @@ You can execute this by running
 `python main.py`
 
 In order to run this without errors, Rode Connect should be stored in
-C drive and folder program
+C drive and folder named "Program Files"
